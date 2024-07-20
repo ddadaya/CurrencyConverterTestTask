@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vk Test Task</string>
+    <string name="convert_label">Convert</string>
+    <string name="app_name_label">Currency Converter</string>
+    <string name="conversion_rate_label">Conversion Rate</string>
+    <string name="convert_from_label">Convert From</string>
+    <string name="convert_to_label">Convert To</string>
+    <string name="amount_to_convert_label">Amount To Convert</string>
+    <string name="start_value_from">USD</string>
+    <string name="start_value_to">EUR</string>
+</resources>
